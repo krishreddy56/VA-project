@@ -1,99 +1,1353 @@
-[{"id":"01","cat": "Jazz", "info": [
+[{"id":"01","cat": "creditscore", "info": [
   {
-    "State":"18-19",
-    "Male-Yes": 1,
-    "Male-No": 5,
-    "Male-NA": 0
+    "State":"3",
+    "Abandoned": 0,
+    "Accepted": 5,
+    "Rejected": 7
   },
   {
-    "State":"20-29",
-    "Male-Yes": 3,
-    "Male-No": 39,
-    "Male-NA": 0
+    "State":"5",
+    "Abandoned": 0,
+    "Accepted": 9,
+    "Rejected": 5
   },
   {
-    "State":"30-39",
-    "Male-Yes": 4,
-    "Male-No": 42,
-    "Male-NA": 1
+    "State":"7",
+    "Abandoned": 0,
+    "Accepted": 8,
+    "Rejected": 0
   },
   {
-    "State":"40-49",
-    "Male-Yes": 5,
-    "Male-No": 70,
-    "Male-NA": 0
+    "State":"9",
+    "Abandoned": 0,
+    "Accepted": 4,
+    "Rejected": 5
+  }
+  ]},
+{"id":"02","cat": "creditscore", "info": [
+  {
+    "State":"3",
+    "Abandoned": 0,
+    "Accepted": 1,
+    "Rejected": 0
   },
   {
-    "State":"50-59",
-    "Male-Yes": 4,
-    "Male-No": 59,
-    "Male-NA": 0
+    "State":"5",
+    "Abandoned": 0,
+    "Accepted": 3,
+    "Rejected": 3
   },
   {
-    "State":"60-69",
-    "Male-Yes": 0,
-    "Male-No": 35,
-    "Male-NA": 0
+    "State":"7",
+    "Abandoned": 0,
+    "Accepted": 1,
+    "Rejected": 0
   },
   {
-    "State":"70-79",
-    "Male-Yes": 0,
-    "Male-No": 35,
-    "Male-NA": 1
+    "State":"9",
+    "Abandoned": 0,
+    "Accepted": 0,
+    "Rejected": 0
+  }
+  ]},
+{"id":"04","cat": "creditscore", "info": [
+  {
+    "State":"3",
+    "Abandoned": 1,
+    "Accepted": 24,
+    "Rejected": 82
   },
   {
-    "State":"80+",
-    "Male-Yes": 0,
-    "Male-No": 14,
-    "Male-NA": 0
- }]},
-{"id":"02","cat": "Jazz", "info": [
-  {
-    "State":"18-19",
-    "Male-Yes": 1,
-    "Male-No": 4,
-    "Male-NA": 0
+    "State":"5",
+    "Abandoned": 0,
+    "Accepted": 20,
+    "Rejected": 14
   },
   {
-    "State":"20-29",
-    "Male-Yes": 6,
-    "Male-No": 36,
-    "Male-NA": 0
+    "State":"7",
+    "Abandoned": 0,
+    "Accepted": 15,
+    "Rejected": 1
   },
   {
-    "State":"30-39",
-    "Male-Yes": 8,
-    "Male-No": 44,
-    "Male-NA": 0
+    "State":"9",
+    "Abandoned": 0,
+    "Accepted": 8,
+    "Rejected": 0
+  }
+  ]},
+{"id":"05","cat": "creditscore", "info": [
+  {
+    "State":"3",
+    "Abandoned": 0,
+    "Accepted": 11,
+    "Rejected": 9
   },
   {
-    "State":"40-49",
-    "Male-Yes": 9,
-    "Male-No": 58,
-    "Male-NA": 1
+    "State":"5",
+    "Abandoned": 0,
+    "Accepted": 5,
+    "Rejected": 8
   },
   {
-    "State":"50-59",
-    "Male-Yes": 8,
-    "Male-No": 72,
-    "Male-NA": 1
+    "State":"7",
+    "Abandoned": 0,
+    "Accepted": 1,
+    "Rejected": 0
   },
   {
-    "State":"60-69",
-    "Male-Yes": 4,
-    "Male-No": 25,
-    "Male-NA": 1
+    "State":"9",
+    "Abandoned": 0,
+    "Accepted": 5,
+    "Rejected": 1
+  }
+  ]},
+{"id":"06","cat": "creditscore", "info": [
+  {
+    "State":"3",
+    "Abandoned": 31,
+    "Accepted": 217,
+    "Rejected": 564
   },
   {
-    "State":"70-79",
-    "Male-Yes": 1,
-    "Male-No": 10,
-    "Male-NA": 0
+    "State":"5",
+    "Abandoned": 7,
+    "Accepted": 68,
+    "Rejected": 66
   },
   {
-    "State":"80+",
-    "Male-Yes": 1,
-    "Male-No": 3,
-    "Male-NA": 0
- }]}
+    "State":"7",
+    "Abandoned": 4,
+    "Accepted": 55,
+    "Rejected": 18
+  },
+  {
+    "State":"9",
+    "Abandoned": 0,
+    "Accepted": 18,
+    "Rejected": 19
+  }
+  ]},
+{"id":"08","cat": "creditscore", "info": [
+  {
+    "State":"3",
+    "Abandoned": 0,
+    "Accepted": 30,
+    "Rejected": 71
+  },
+  {
+    "State":"5",
+    "Abandoned": 0,
+    "Accepted": 13,
+    "Rejected": 17
+  },
+  {
+    "State":"7",
+    "Abandoned": 0,
+    "Accepted": 14,
+    "Rejected": 0
+  },
+  {
+    "State":"9",
+    "Abandoned": 0,
+    "Accepted": 1,
+    "Rejected": 0
+  }
+  ]},
+{"id":"09","cat": "creditscore", "info": [
+  {
+    "State":"3",
+    "Abandoned": 0,
+    "Accepted": 7,
+    "Rejected": 5
+  },
+  {
+    "State":"5",
+    "Abandoned": 0,
+    "Accepted": 10,
+    "Rejected": 35
+  },
+  {
+    "State":"7",
+    "Abandoned": 0,
+    "Accepted": 4,
+    "Rejected": 22
+  },
+  {
+    "State":"9",
+    "Abandoned": 1,
+    "Accepted": 6,
+    "Rejected": 0
+  }
+  ]},
+{"id":"10","cat": "creditscore", "info": [
+  {
+    "State":"3",
+    "Abandoned": 0,
+    "Accepted": 10,
+    "Rejected": 10
+  },
+  {
+    "State":"5",
+    "Abandoned": 1,
+    "Accepted": 4,
+    "Rejected": 4
+  },
+  {
+    "State":"7",
+    "Abandoned": 0,
+    "Accepted": 3,
+    "Rejected": 0
+  },
+  {
+    "State":"9",
+    "Abandoned": 0,
+    "Accepted": 2,
+    "Rejected": 0
+  }
+  ]},
+{"id":"11","cat": "creditscore", "info": [
+  {
+    "State":"3",
+    "Abandoned": 0,
+    "Accepted": 11,
+    "Rejected": 52
+  },
+  {
+    "State":"5",
+    "Abandoned": 0,
+    "Accepted": 1,
+    "Rejected": 0
+  },
+  {
+    "State":"7",
+    "Abandoned": 0,
+    "Accepted": 1,
+    "Rejected": 0
+  },
+  {
+    "State":"9",
+    "Abandoned": 0,
+    "Accepted": 0,
+    "Rejected": 0
+  }
+  ]},
+{"id":"12","cat": "creditscore", "info": [
+  {
+    "State":"3",
+    "Abandoned": 29,
+    "Accepted": 104,
+    "Rejected": 277
+  },
+  {
+    "State":"5",
+    "Abandoned": 0,
+    "Accepted": 54,
+    "Rejected": 38
+  },
+  {
+    "State":"7",
+    "Abandoned": 0,
+    "Accepted": 36,
+    "Rejected": 6
+  },
+  {
+    "State":"9",
+    "Abandoned": 1,
+    "Accepted": 29,
+    "Rejected": 9
+  }
+  ]},
+{"id":"13","cat": "creditscore", "info": [
+  {
+    "State":"3",
+    "Abandoned": 6,
+    "Accepted": 36,
+    "Rejected": 18
+  },
+  {
+    "State":"5",
+    "Abandoned": 0,
+    "Accepted": 21,
+    "Rejected": 2
+  },
+  {
+    "State":"7",
+    "Abandoned": 0,
+    "Accepted": 13,
+    "Rejected": 6
+  },
+  {
+    "State":"9",
+    "Abandoned": 0,
+    "Accepted": 13,
+    "Rejected": 0
+  }
+  ]},
+{"id":"15","cat": "creditscore", "info": [
+  {
+    "State":"3",
+    "Abandoned": 0,
+    "Accepted": 3,
+    "Rejected": 1
+  },
+  {
+    "State":"5",
+    "Abandoned": 0,
+    "Accepted": 5,
+    "Rejected": 0
+  },
+  {
+    "State":"7",
+    "Abandoned": 0,
+    "Accepted": 0,
+    "Rejected": 5
+  },
+  {
+    "State":"9",
+    "Abandoned": 0,
+    "Accepted": 0,
+    "Rejected": 0
+  }
+  ]},
+{"id":"16","cat": "creditscore", "info": [
+  {
+    "State":"3",
+    "Abandoned": 0,
+    "Accepted": 4,
+    "Rejected": 5
+  },
+  {
+    "State":"5",
+    "Abandoned": 0,
+    "Accepted": 1,
+    "Rejected": 12
+  },
+  {
+    "State":"7",
+    "Abandoned": 0,
+    "Accepted": 1,
+    "Rejected": 0
+  },
+  {
+    "State":"9",
+    "Abandoned": 0,
+    "Accepted": 0,
+    "Rejected": 0
+  }
+  ]},
+{"id":"17","cat": "creditscore", "info": [
+  {
+    "State":"3",
+    "Abandoned": 1,
+    "Accepted": 32,
+    "Rejected": 24
+  },
+  {
+    "State":"5",
+    "Abandoned": 1,
+    "Accepted": 15,
+    "Rejected": 31
+  },
+  {
+    "State":"7",
+    "Abandoned": 0,
+    "Accepted": 14,
+    "Rejected": 0
+  },
+  {
+    "State":"9",
+    "Abandoned": 0,
+    "Accepted": 5,
+    "Rejected": 7
+  }
+  ]},
+{"id":"18","cat": "creditscore", "info": [
+  {
+    "State":"3",
+    "Abandoned": 0,
+    "Accepted": 15,
+    "Rejected": 5
+  },
+  {
+    "State":"5",
+    "Abandoned": 4,
+    "Accepted": 13,
+    "Rejected": 36
+  },
+  {
+    "State":"7",
+    "Abandoned": 0,
+    "Accepted": 12,
+    "Rejected": 1
+  },
+  {
+    "State":"9",
+    "Abandoned": 0,
+    "Accepted": 12,
+    "Rejected": 4
+  }
+  ]},
+{"id":"19","cat": "creditscore", "info": [
+  {
+    "State":"3",
+    "Abandoned": 0,
+    "Accepted": 6,
+    "Rejected": 1
+  },
+  {
+    "State":"5",
+    "Abandoned": 0,
+    "Accepted": 3,
+    "Rejected": 3
+  },
+  {
+    "State":"7",
+    "Abandoned": 0,
+    "Accepted": 2,
+    "Rejected": 4
+  },
+  {
+    "State":"9",
+    "Abandoned": 0,
+    "Accepted": 4,
+    "Rejected": 1
+  }
+  ]},
+{"id":"20","cat": "creditscore", "info": [
+  {
+    "State":"3",
+    "Abandoned": 15,
+    "Accepted": 6,
+    "Rejected": 4
+  },
+  {
+    "State":"5",
+    "Abandoned": 0,
+    "Accepted": 3,
+    "Rejected": 0
+  },
+  {
+    "State":"7",
+    "Abandoned": 0,
+    "Accepted": 3,
+    "Rejected": 0
+  },
+  {
+    "State":"9",
+    "Abandoned": 0,
+    "Accepted": 3,
+    "Rejected": 0
+  }
+  ]},
+{"id":"21","cat": "creditscore", "info": [
+  {
+    "State":"3",
+    "Abandoned": 0,
+    "Accepted": 12,
+    "Rejected": 5
+  },
+  {
+    "State":"5",
+    "Abandoned": 0,
+    "Accepted": 4,
+    "Rejected": 0
+  },
+  {
+    "State":"7",
+    "Abandoned": 0,
+    "Accepted": 7,
+    "Rejected": 0
+  },
+  {
+    "State":"9",
+    "Abandoned": 0,
+    "Accepted": 4,
+    "Rejected": 4
+  }
+  ]},
+{"id":"22","cat": "creditscore", "info": [
+  {
+    "State":"3",
+    "Abandoned": 3,
+    "Accepted": 10,
+    "Rejected": 8
+  },
+  {
+    "State":"5",
+    "Abandoned": 0,
+    "Accepted": 4,
+    "Rejected": 5
+  },
+  {
+    "State":"7",
+    "Abandoned": 0,
+    "Accepted": 7,
+    "Rejected": 0
+  },
+  {
+    "State":"9",
+    "Abandoned": 0,
+    "Accepted": 6,
+    "Rejected": 0
+  }
+  ]},
+{"id":"23","cat": "creditscore", "info": [
+  {
+    "State":"3",
+    "Abandoned": 0,
+    "Accepted": 1,
+    "Rejected": 5
+  },
+  {
+    "State":"5",
+    "Abandoned": 0,
+    "Accepted": 6,
+    "Rejected": 16
+  },
+  {
+    "State":"7",
+    "Abandoned": 0,
+    "Accepted": 1,
+    "Rejected": 0
+  },
+  {
+    "State":"9",
+    "Abandoned": 0,
+    "Accepted": 1,
+    "Rejected": 0
+  }
+  ]},
+{"id":"24","cat": "creditscore", "info": [
+  {
+    "State":"3",
+    "Abandoned": 0,
+    "Accepted": 25,
+    "Rejected": 20
+  },
+  {
+    "State":"5",
+    "Abandoned": 9,
+    "Accepted": 8,
+    "Rejected": 39
+  },
+  {
+    "State":"7",
+    "Abandoned": 1,
+    "Accepted": 7,
+    "Rejected": 40
+  },
+  {
+    "State":"9",
+    "Abandoned": 0,
+    "Accepted": 8,
+    "Rejected": 0
+  }
+  ]},
+{"id":"25","cat": "creditscore", "info": [
+  {
+    "State":"3",
+    "Abandoned": 5,
+    "Accepted": 20,
+    "Rejected": 78
+  },
+  {
+    "State":"5",
+    "Abandoned": 2,
+    "Accepted": 19,
+    "Rejected": 10
+  },
+  {
+    "State":"7",
+    "Abandoned": 0,
+    "Accepted": 8,
+    "Rejected": 0
+  },
+  {
+    "State":"9",
+    "Abandoned": 0,
+    "Accepted": 6,
+    "Rejected": 0
+  }
+  ]},
+{"id":"26","cat": "creditscore", "info": [
+  {
+    "State":"3",
+    "Abandoned": 2,
+    "Accepted": 31,
+    "Rejected": 104
+  },
+  {
+    "State":"5",
+    "Abandoned": 0,
+    "Accepted": 18,
+    "Rejected": 2
+  },
+  {
+    "State":"7",
+    "Abandoned": 1,
+    "Accepted": 13,
+    "Rejected": 7
+  },
+  {
+    "State":"9",
+    "Abandoned": 0,
+    "Accepted": 17,
+    "Rejected": 1
+  }
+  ]},
+{"id":"27","cat": "creditscore", "info": [
+  {
+    "State":"3",
+    "Abandoned": 0,
+    "Accepted": 19,
+    "Rejected": 1
+  },
+  {
+    "State":"5",
+    "Abandoned": 0,
+    "Accepted": 12,
+    "Rejected": 4
+  },
+  {
+    "State":"7",
+    "Abandoned": 0,
+    "Accepted": 2,
+    "Rejected": 9
+  },
+  {
+    "State":"9",
+    "Abandoned": 0,
+    "Accepted": 4,
+    "Rejected": 0
+  }
+  ]},
+{"id":"28","cat": "creditscore", "info": [
+  {
+    "State":"3",
+    "Abandoned": 0,
+    "Accepted": 3,
+    "Rejected": 0
+  },
+  {
+    "State":"5",
+    "Abandoned": 0,
+    "Accepted": 2,
+    "Rejected": 0
+  },
+  {
+    "State":"7",
+    "Abandoned": 0,
+    "Accepted": 2,
+    "Rejected": 0
+  },
+  {
+    "State":"9",
+    "Abandoned": 0,
+    "Accepted": 5,
+    "Rejected": 0
+  }
+  ]},
+{"id":"29","cat": "creditscore", "info": [
+  {
+    "State":"3",
+    "Abandoned": 0,
+    "Accepted": 21,
+    "Rejected": 18
+  },
+  {
+    "State":"5",
+    "Abandoned": 0,
+    "Accepted": 9,
+    "Rejected": 2
+  },
+  {
+    "State":"7",
+    "Abandoned": 0,
+    "Accepted": 10,
+    "Rejected": 3
+  },
+  {
+    "State":"9",
+    "Abandoned": 0,
+    "Accepted": 3,
+    "Rejected": 0
+  }
+  ]},
+{"id":"30","cat": "creditscore", "info": [
+  {
+    "State":"3",
+    "Abandoned": 0,
+    "Accepted": 0,
+    "Rejected": 0
+  },
+  {
+    "State":"5",
+    "Abandoned": 0,
+    "Accepted": 5,
+    "Rejected": 5
+  },
+  {
+    "State":"7",
+    "Abandoned": 0,
+    "Accepted": 1,
+    "Rejected": 0
+  },
+  {
+    "State":"9",
+    "Abandoned": 0,
+    "Accepted": 2,
+    "Rejected": 0
+  }
+  ]},
+{"id":"31","cat": "creditscore", "info": [
+  {
+    "State":"3",
+    "Abandoned": 0,
+    "Accepted": 2,
+    "Rejected": 0
+  },
+  {
+    "State":"5",
+    "Abandoned": 0,
+    "Accepted": 2,
+    "Rejected": 0
+  },
+  {
+    "State":"7",
+    "Abandoned": 2,
+    "Accepted": 1,
+    "Rejected": 3
+  },
+  {
+    "State":"9",
+    "Abandoned": 0,
+    "Accepted": 0,
+    "Rejected": 0
+  }
+  ]},
+{"id":"32","cat": "creditscore", "info": [
+  {
+    "State":"3",
+    "Abandoned": 0,
+    "Accepted": 23,
+    "Rejected": 36
+  },
+  {
+    "State":"5",
+    "Abandoned": 0,
+    "Accepted": 5,
+    "Rejected": 30
+  },
+  {
+    "State":"7",
+    "Abandoned": 0,
+    "Accepted": 3,
+    "Rejected": 20
+  },
+  {
+    "State":"9",
+    "Abandoned": 2,
+    "Accepted": 3,
+    "Rejected": 3
+  }
+  ]},
+{"id":"33","cat": "creditscore", "info": [
+  {
+    "State":"3",
+    "Abandoned": 0,
+    "Accepted": 3,
+    "Rejected": 0
+  },
+  {
+    "State":"5",
+    "Abandoned": 0,
+    "Accepted": 3,
+    "Rejected": 4
+  },
+  {
+    "State":"7",
+    "Abandoned": 0,
+    "Accepted": 3,
+    "Rejected": 2
+  },
+  {
+    "State":"9",
+    "Abandoned": 0,
+    "Accepted": 3,
+    "Rejected": 1
+  }
+  ]},
+{"id":"34","cat": "creditscore", "info": [
+  {
+    "State":"3",
+    "Abandoned": 0,
+    "Accepted": 36,
+    "Rejected": 36
+  },
+  {
+    "State":"5",
+    "Abandoned": 0,
+    "Accepted": 30,
+    "Rejected": 6
+  },
+  {
+    "State":"7",
+    "Abandoned": 0,
+    "Accepted": 10,
+    "Rejected": 0
+  },
+  {
+    "State":"9",
+    "Abandoned": 0,
+    "Accepted": 19,
+    "Rejected": 5
+  }
+  ]},
+{"id":"35","cat": "creditscore", "info": [
+  {
+    "State":"3",
+    "Abandoned": 0,
+    "Accepted": 4,
+    "Rejected": 13
+  },
+  {
+    "State":"5",
+    "Abandoned": 0,
+    "Accepted": 3,
+    "Rejected": 0
+  },
+  {
+    "State":"7",
+    "Abandoned": 1,
+    "Accepted": 3,
+    "Rejected": 7
+  },
+  {
+    "State":"9",
+    "Abandoned": 0,
+    "Accepted": 1,
+    "Rejected": 0
+  }
+  ]},
+{"id":"36","cat": "creditscore", "info": [
+  {
+    "State":"3",
+    "Abandoned": 4,
+    "Accepted": 33,
+    "Rejected": 45
+  },
+  {
+    "State":"5",
+    "Abandoned": 1,
+    "Accepted": 26,
+    "Rejected": 27
+  },
+  {
+    "State":"7",
+    "Abandoned": 0,
+    "Accepted": 13,
+    "Rejected": 0
+  },
+  {
+    "State":"9",
+    "Abandoned": 1,
+    "Accepted": 9,
+    "Rejected": 2
+  }
+  ]},
+{"id":"37","cat": "creditscore", "info": [
+  {
+    "State":"3",
+    "Abandoned": 7,
+    "Accepted": 55,
+    "Rejected": 46
+  },
+  {
+    "State":"5",
+    "Abandoned": 0,
+    "Accepted": 45,
+    "Rejected": 13
+  },
+  {
+    "State":"7",
+    "Abandoned": 0,
+    "Accepted": 23,
+    "Rejected": 5
+  },
+  {
+    "State":"9",
+    "Abandoned": 1,
+    "Accepted": 14,
+    "Rejected": 17
+  }
+  ]},
+{"id":"38","cat": "creditscore", "info": [
+  {
+    "State":"3",
+    "Abandoned": 0,
+    "Accepted": 1,
+    "Rejected": 0
+  },
+  {
+    "State":"5",
+    "Abandoned": 0,
+    "Accepted": 0,
+    "Rejected": 0
+  },
+  {
+    "State":"7",
+    "Abandoned": 0,
+    "Accepted": 1,
+    "Rejected": 0
+  },
+  {
+    "State":"9",
+    "Abandoned": 0,
+    "Accepted": 0,
+    "Rejected": 0
+  }
+  ]},
+{"id":"39","cat": "creditscore", "info": [
+  {
+    "State":"3",
+    "Abandoned": 0,
+    "Accepted": 37,
+    "Rejected": 59
+  },
+  {
+    "State":"5",
+    "Abandoned": 2,
+    "Accepted": 20,
+    "Rejected": 17
+  },
+  {
+    "State":"7",
+    "Abandoned": 0,
+    "Accepted": 16,
+    "Rejected": 1
+  },
+  {
+    "State":"9",
+    "Abandoned": 0,
+    "Accepted": 30,
+    "Rejected": 4
+  }
+  ]},
+{"id":"40","cat": "creditscore", "info": [
+  {
+    "State":"3",
+    "Abandoned": 0,
+    "Accepted": 6,
+    "Rejected": 5
+  },
+  {
+    "State":"5",
+    "Abandoned": 0,
+    "Accepted": 5,
+    "Rejected": 0
+  },
+  {
+    "State":"7",
+    "Abandoned": 0,
+    "Accepted": 3,
+    "Rejected": 0
+  },
+  {
+    "State":"9",
+    "Abandoned": 0,
+    "Accepted": 7,
+    "Rejected": 0
+  }
+  ]},
+{"id":"41","cat": "creditscore", "info": [
+  {
+    "State":"3",
+    "Abandoned": 1,
+    "Accepted": 14,
+    "Rejected": 60
+  },
+  {
+    "State":"5",
+    "Abandoned": 0,
+    "Accepted": 10,
+    "Rejected": 0
+  },
+  {
+    "State":"7",
+    "Abandoned": 0,
+    "Accepted": 7,
+    "Rejected": 2
+  },
+  {
+    "State":"9",
+    "Abandoned": 0,
+    "Accepted": 12,
+    "Rejected": 0
+  }
+  ]},
+{"id":"42","cat": "creditscore", "info": [
+  {
+    "State":"3",
+    "Abandoned": 2,
+    "Accepted": 26,
+    "Rejected": 122
+  },
+  {
+    "State":"5",
+    "Abandoned": 0,
+    "Accepted": 22,
+    "Rejected": 1
+  },
+  {
+    "State":"7",
+    "Abandoned": 1,
+    "Accepted": 13,
+    "Rejected": 1
+  },
+  {
+    "State":"9",
+    "Abandoned": 0,
+    "Accepted": 25,
+    "Rejected": 33
+  }
+  ]},
+{"id":"44","cat": "creditscore", "info": [
+  {
+    "State":"3",
+    "Abandoned": 0,
+    "Accepted": 3,
+    "Rejected": 26
+  },
+  {
+    "State":"5",
+    "Abandoned": 0,
+    "Accepted": 0,
+    "Rejected": 0
+  },
+  {
+    "State":"7",
+    "Abandoned": 0,
+    "Accepted": 3,
+    "Rejected": 1
+  },
+  {
+    "State":"9",
+    "Abandoned": 1,
+    "Accepted": 5,
+    "Rejected": 0
+  }
+  ]},
+{"id":"45","cat": "creditscore", "info": [
+  {
+    "State":"3",
+    "Abandoned": 0,
+    "Accepted": 17,
+    "Rejected": 2
+  },
+  {
+    "State":"5",
+    "Abandoned": 0,
+    "Accepted": 6,
+    "Rejected": 6
+  },
+  {
+    "State":"7",
+    "Abandoned": 0,
+    "Accepted": 6,
+    "Rejected": 0
+  },
+  {
+    "State":"9",
+    "Abandoned": 0,
+    "Accepted": 7,
+    "Rejected": 0
+  }
+  ]},
+{"id":"46","cat": "creditscore", "info": [
+  {
+    "State":"3",
+    "Abandoned": 0,
+    "Accepted": 0,
+    "Rejected": 0
+  },
+  {
+    "State":"5",
+    "Abandoned": 0,
+    "Accepted": 2,
+    "Rejected": 0
+  },
+  {
+    "State":"7",
+    "Abandoned": 0,
+    "Accepted": 0,
+    "Rejected": 0
+  },
+  {
+    "State":"9",
+    "Abandoned": 0,
+    "Accepted": 1,
+    "Rejected": 0
+  }
+  ]},
+{"id":"47","cat": "creditscore", "info": [
+  {
+    "State":"3",
+    "Abandoned": 0,
+    "Accepted": 24,
+    "Rejected": 1
+  },
+  {
+    "State":"5",
+    "Abandoned": 0,
+    "Accepted": 12,
+    "Rejected": 10
+  },
+  {
+    "State":"7",
+    "Abandoned": 0,
+    "Accepted": 5,
+    "Rejected": 3
+  },
+  {
+    "State":"9",
+    "Abandoned": 0,
+    "Accepted": 9,
+    "Rejected": 2
+  }
+  ]},
+{"id":"48","cat": "creditscore", "info": [
+  {
+    "State":"3",
+    "Abandoned": 17,
+    "Accepted": 94,
+    "Rejected": 111
+  },
+  {
+    "State":"5",
+    "Abandoned": 2,
+    "Accepted": 83,
+    "Rejected": 65
+  },
+  {
+    "State":"7",
+    "Abandoned": 1,
+    "Accepted": 48,
+    "Rejected": 41
+  },
+  {
+    "State":"9",
+    "Abandoned": 2,
+    "Accepted": 39,
+    "Rejected": 15
+  }
+  ]},
+{"id":"49","cat": "creditscore", "info": [
+  {
+    "State":"3",
+    "Abandoned": 0,
+    "Accepted": 11,
+    "Rejected": 10
+  },
+  {
+    "State":"5",
+    "Abandoned": 0,
+    "Accepted": 5,
+    "Rejected": 8
+  },
+  {
+    "State":"7",
+    "Abandoned": 0,
+    "Accepted": 2,
+    "Rejected": 0
+  },
+  {
+    "State":"9",
+    "Abandoned": 0,
+    "Accepted": 0,
+    "Rejected": 0
+  }
+  ]},
+{"id":"50","cat": "creditscore", "info": [
+  {
+    "State":"3",
+    "Abandoned": 0,
+    "Accepted": 0,
+    "Rejected": 0
+  },
+  {
+    "State":"5",
+    "Abandoned": 0,
+    "Accepted": 1,
+    "Rejected": 0
+  },
+  {
+    "State":"7",
+    "Abandoned": 0,
+    "Accepted": 1,
+    "Rejected": 0
+  },
+  {
+    "State":"9",
+    "Abandoned": 0,
+    "Accepted": 2,
+    "Rejected": 0
+  }
+  ]},
+{"id":"51","cat": "creditscore", "info": [
+  {
+    "State":"3",
+    "Abandoned": 2,
+    "Accepted": 31,
+    "Rejected": 28
+  },
+  {
+    "State":"5",
+    "Abandoned": 2,
+    "Accepted": 18,
+    "Rejected": 0
+  },
+  {
+    "State":"7",
+    "Abandoned": 2,
+    "Accepted": 10,
+    "Rejected": 3
+  },
+  {
+    "State":"9",
+    "Abandoned": 0,
+    "Accepted": 9,
+    "Rejected": 0
+  }
+  ]},
+{"id":"53","cat": "creditscore", "info": [
+  {
+    "State":"3",
+    "Abandoned": 2,
+    "Accepted": 39,
+    "Rejected": 31
+  },
+  {
+    "State":"5",
+    "Abandoned": 0,
+    "Accepted": 19,
+    "Rejected": 12
+  },
+  {
+    "State":"7",
+    "Abandoned": 0,
+    "Accepted": 10,
+    "Rejected": 20
+  },
+  {
+    "State":"9",
+    "Abandoned": 0,
+    "Accepted": 4,
+    "Rejected": 0
+  }
+  ]},
+{"id":"54","cat": "creditscore", "info": [
+  {
+    "State":"3",
+    "Abandoned": 1,
+    "Accepted": 10,
+    "Rejected": 0
+  },
+  {
+    "State":"5",
+    "Abandoned": 0,
+    "Accepted": 1,
+    "Rejected": 0
+  },
+  {
+    "State":"7",
+    "Abandoned": 0,
+    "Accepted": 2,
+    "Rejected": 0
+  },
+  {
+    "State":"9",
+    "Abandoned": 0,
+    "Accepted": 0,
+    "Rejected": 0
+  }
+  ]},
+{"id":"55","cat": "creditscore", "info": [
+  {
+    "State":"3",
+    "Abandoned": 0,
+    "Accepted": 9,
+    "Rejected": 27
+  },
+  {
+    "State":"5",
+    "Abandoned": 0,
+    "Accepted": 4,
+    "Rejected": 6
+  },
+  {
+    "State":"7",
+    "Abandoned": 0,
+    "Accepted": 4,
+    "Rejected": 8
+  },
+  {
+    "State":"9",
+    "Abandoned": 0,
+    "Accepted": 2,
+    "Rejected": 0
+  }
+  ]},
+{"id":"56","cat": "creditscore", "info": [
+  {
+    "State":"3",
+    "Abandoned": 0,
+    "Accepted": 1,
+    "Rejected": 1
+  },
+  {
+    "State":"5",
+    "Abandoned": 0,
+    "Accepted": 1,
+    "Rejected": 0
+  },
+  {
+    "State":"7",
+    "Abandoned": 0,
+    "Accepted": 1,
+    "Rejected": 0
+  },
+  {
+    "State":"9",
+    "Abandoned": 0,
+    "Accepted": 0,
+    "Rejected": 0
+  }
+  ]},
+{"id":"72","cat": "creditscore", "info": [
+  {
+    "State":"3",
+    "Abandoned": 0,
+    "Accepted": 2,
+    "Rejected": 0
+  },
+  {
+    "State":"5",
+    "Abandoned": 0,
+    "Accepted": 0,
+    "Rejected": 0
+  },
+  {
+    "State":"7",
+    "Abandoned": 0,
+    "Accepted": 0,
+    "Rejected": 0
+  },
+  {
+    "State":"9",
+    "Abandoned": 0,
+    "Accepted": 0,
+    "Rejected": 0
+  }
+  ]}
 ]
