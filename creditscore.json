@@ -24,7 +24,7 @@
     "Rejected": 5
   }
   ]},
-[{"id":"02","cat": "creditscore", "info": [
+{"id":"02","cat": "creditscore", "info": [
   {
     "State":"3",
     "Abandoned": 0,
@@ -50,7 +50,7 @@
     "Rejected": 0
   }
   ]},
-[{"id":"04","cat": "creditscore", "info": [
+{"id":"04","cat": "creditscore", "info": [
   {
     "State":"3",
     "Abandoned": 1,
@@ -76,7 +76,7 @@
     "Rejected": 0
   }
   ]},
-[{"id":"05","cat": "creditscore", "info": [
+{"id":"05","cat": "creditscore", "info": [
   {
     "State":"3",
     "Abandoned": 0,
@@ -102,7 +102,7 @@
     "Rejected": 1
   }
   ]},
-[{"id":"06","cat": "creditscore", "info": [
+{"id":"06","cat": "creditscore", "info": [
   {
     "State":"3",
     "Abandoned": 31,
@@ -128,7 +128,7 @@
     "Rejected": 19
   }
   ]},
-[{"id":"08","cat": "creditscore", "info": [
+{"id":"08","cat": "creditscore", "info": [
   {
     "State":"3",
     "Abandoned": 0,
@@ -154,7 +154,7 @@
     "Rejected": 0
   }
   ]},
-[{"id":"09","cat": "creditscore", "info": [
+{"id":"09","cat": "creditscore", "info": [
   {
     "State":"3",
     "Abandoned": 0,
@@ -180,7 +180,7 @@
     "Rejected": 0
   }
   ]},
-[{"id":"10","cat": "creditscore", "info": [
+{"id":"10","cat": "creditscore", "info": [
   {
     "State":"3",
     "Abandoned": 0,
@@ -206,7 +206,7 @@
     "Rejected": 0
   }
   ]},
-[{"id":"11","cat": "creditscore", "info": [
+{"id":"11","cat": "creditscore", "info": [
   {
     "State":"3",
     "Abandoned": 0,
@@ -232,7 +232,7 @@
     "Rejected": 0
   }
   ]},
-[{"id":"12","cat": "creditscore", "info": [
+{"id":"12","cat": "creditscore", "info": [
   {
     "State":"3",
     "Abandoned": 29,
@@ -258,7 +258,7 @@
     "Rejected": 9
   }
   ]},
-[{"id":"13","cat": "creditscore", "info": [
+{"id":"13","cat": "creditscore", "info": [
   {
     "State":"3",
     "Abandoned": 6,
@@ -284,7 +284,7 @@
     "Rejected": 0
   }
   ]},
-[{"id":"15","cat": "creditscore", "info": [
+{"id":"15","cat": "creditscore", "info": [
   {
     "State":"3",
     "Abandoned": 0,
@@ -310,7 +310,7 @@
     "Rejected": 0
   }
   ]},
-[{"id":"16","cat": "creditscore", "info": [
+{"id":"16","cat": "creditscore", "info": [
   {
     "State":"3",
     "Abandoned": 0,
@@ -336,7 +336,7 @@
     "Rejected": 0
   }
   ]},
-[{"id":"17","cat": "creditscore", "info": [
+{"id":"17","cat": "creditscore", "info": [
   {
     "State":"3",
     "Abandoned": 1,
@@ -362,7 +362,7 @@
     "Rejected": 7
   }
   ]},
-[{"id":"18","cat": "creditscore", "info": [
+{"id":"18","cat": "creditscore", "info": [
   {
     "State":"3",
     "Abandoned": 0,
@@ -388,7 +388,7 @@
     "Rejected": 4
   }
   ]},
-[{"id":"19","cat": "creditscore", "info": [
+{"id":"19","cat": "creditscore", "info": [
   {
     "State":"3",
     "Abandoned": 0,
@@ -414,7 +414,7 @@
     "Rejected": 1
   }
   ]},
-[{"id":"20","cat": "creditscore", "info": [
+{"id":"20","cat": "creditscore", "info": [
   {
     "State":"3",
     "Abandoned": 15,
@@ -440,7 +440,7 @@
     "Rejected": 0
   }
   ]},
-[{"id":"21","cat": "creditscore", "info": [
+{"id":"21","cat": "creditscore", "info": [
   {
     "State":"3",
     "Abandoned": 0,
@@ -466,7 +466,7 @@
     "Rejected": 4
   }
   ]},
-[{"id":"22","cat": "creditscore", "info": [
+{"id":"22","cat": "creditscore", "info": [
   {
     "State":"3",
     "Abandoned": 3,
@@ -492,7 +492,7 @@
     "Rejected": 0
   }
   ]},
-[{"id":"23","cat": "creditscore", "info": [
+{"id":"23","cat": "creditscore", "info": [
   {
     "State":"3",
     "Abandoned": 0,
@@ -518,7 +518,7 @@
     "Rejected": 0
   }
   ]},
-[{"id":"24","cat": "creditscore", "info": [
+{"id":"24","cat": "creditscore", "info": [
   {
     "State":"3",
     "Abandoned": 0,
@@ -544,7 +544,7 @@
     "Rejected": 0
   }
   ]},
-[{"id":"25","cat": "creditscore", "info": [
+{"id":"25","cat": "creditscore", "info": [
   {
     "State":"3",
     "Abandoned": 5,
@@ -570,7 +570,7 @@
     "Rejected": 0
   }
   ]},
-[{"id":"26","cat": "creditscore", "info": [
+{"id":"26","cat": "creditscore", "info": [
   {
     "State":"3",
     "Abandoned": 2,
@@ -596,7 +596,7 @@
     "Rejected": 1
   }
   ]},
-[{"id":"27","cat": "creditscore", "info": [
+{"id":"27","cat": "creditscore", "info": [
   {
     "State":"3",
     "Abandoned": 0,
@@ -622,7 +622,7 @@
     "Rejected": 0
   }
   ]},
-[{"id":"28","cat": "creditscore", "info": [
+{"id":"28","cat": "creditscore", "info": [
   {
     "State":"3",
     "Abandoned": 0,
@@ -648,7 +648,7 @@
     "Rejected": 0
   }
   ]},
-[{"id":"29","cat": "creditscore", "info": [
+{"id":"29","cat": "creditscore", "info": [
   {
     "State":"3",
     "Abandoned": 0,
@@ -674,7 +674,7 @@
     "Rejected": 0
   }
   ]},
-[{"id":"30","cat": "creditscore", "info": [
+{"id":"30","cat": "creditscore", "info": [
   {
     "State":"3",
     "Abandoned": 0,
@@ -700,7 +700,7 @@
     "Rejected": 0
   }
   ]},
-[{"id":"31","cat": "creditscore", "info": [
+{"id":"31","cat": "creditscore", "info": [
   {
     "State":"3",
     "Abandoned": 0,
@@ -726,7 +726,7 @@
     "Rejected": 0
   }
   ]},
-[{"id":"32","cat": "creditscore", "info": [
+{"id":"32","cat": "creditscore", "info": [
   {
     "State":"3",
     "Abandoned": 0,
@@ -752,7 +752,7 @@
     "Rejected": 3
   }
   ]},
-[{"id":"33","cat": "creditscore", "info": [
+{"id":"33","cat": "creditscore", "info": [
   {
     "State":"3",
     "Abandoned": 0,
@@ -778,7 +778,7 @@
     "Rejected": 1
   }
   ]},
-[{"id":"34","cat": "creditscore", "info": [
+{"id":"34","cat": "creditscore", "info": [
   {
     "State":"3",
     "Abandoned": 0,
@@ -804,7 +804,7 @@
     "Rejected": 5
   }
   ]},
-[{"id":"35","cat": "creditscore", "info": [
+{"id":"35","cat": "creditscore", "info": [
   {
     "State":"3",
     "Abandoned": 0,
@@ -830,7 +830,7 @@
     "Rejected": 0
   }
   ]},
-[{"id":"36","cat": "creditscore", "info": [
+{"id":"36","cat": "creditscore", "info": [
   {
     "State":"3",
     "Abandoned": 4,
@@ -856,7 +856,7 @@
     "Rejected": 2
   }
   ]},
-[{"id":"37","cat": "creditscore", "info": [
+{"id":"37","cat": "creditscore", "info": [
   {
     "State":"3",
     "Abandoned": 7,
@@ -882,7 +882,7 @@
     "Rejected": 17
   }
   ]},
-[{"id":"38","cat": "creditscore", "info": [
+{"id":"38","cat": "creditscore", "info": [
   {
     "State":"3",
     "Abandoned": 0,
@@ -908,7 +908,7 @@
     "Rejected": 0
   }
   ]},
-[{"id":"39","cat": "creditscore", "info": [
+{"id":"39","cat": "creditscore", "info": [
   {
     "State":"3",
     "Abandoned": 0,
@@ -934,7 +934,7 @@
     "Rejected": 4
   }
   ]},
-[{"id":"40","cat": "creditscore", "info": [
+{"id":"40","cat": "creditscore", "info": [
   {
     "State":"3",
     "Abandoned": 0,
@@ -960,7 +960,7 @@
     "Rejected": 0
   }
   ]},
-[{"id":"41","cat": "creditscore", "info": [
+{"id":"41","cat": "creditscore", "info": [
   {
     "State":"3",
     "Abandoned": 1,
@@ -986,7 +986,7 @@
     "Rejected": 0
   }
   ]},
-[{"id":"42","cat": "creditscore", "info": [
+{"id":"42","cat": "creditscore", "info": [
   {
     "State":"3",
     "Abandoned": 2,
@@ -1012,7 +1012,7 @@
     "Rejected": 33
   }
   ]},
-[{"id":"44","cat": "creditscore", "info": [
+{"id":"44","cat": "creditscore", "info": [
   {
     "State":"3",
     "Abandoned": 0,
@@ -1038,7 +1038,7 @@
     "Rejected": 0
   }
   ]},
-[{"id":"45","cat": "creditscore", "info": [
+{"id":"45","cat": "creditscore", "info": [
   {
     "State":"3",
     "Abandoned": 0,
@@ -1064,7 +1064,7 @@
     "Rejected": 0
   }
   ]},
-[{"id":"46","cat": "creditscore", "info": [
+{"id":"46","cat": "creditscore", "info": [
   {
     "State":"3",
     "Abandoned": 0,
@@ -1090,7 +1090,7 @@
     "Rejected": 0
   }
   ]},
-[{"id":"47","cat": "creditscore", "info": [
+{"id":"47","cat": "creditscore", "info": [
   {
     "State":"3",
     "Abandoned": 0,
@@ -1116,7 +1116,7 @@
     "Rejected": 2
   }
   ]},
-[{"id":"48","cat": "creditscore", "info": [
+{"id":"48","cat": "creditscore", "info": [
   {
     "State":"3",
     "Abandoned": 17,
@@ -1142,7 +1142,7 @@
     "Rejected": 15
   }
   ]},
-[{"id":"49","cat": "creditscore", "info": [
+{"id":"49","cat": "creditscore", "info": [
   {
     "State":"3",
     "Abandoned": 0,
@@ -1168,7 +1168,7 @@
     "Rejected": 0
   }
   ]},
-[{"id":"50","cat": "creditscore", "info": [
+{"id":"50","cat": "creditscore", "info": [
   {
     "State":"3",
     "Abandoned": 0,
@@ -1194,7 +1194,7 @@
     "Rejected": 0
   }
   ]},
-[{"id":"51","cat": "creditscore", "info": [
+{"id":"51","cat": "creditscore", "info": [
   {
     "State":"3",
     "Abandoned": 2,
@@ -1220,7 +1220,7 @@
     "Rejected": 0
   }
   ]},
-[{"id":"53","cat": "creditscore", "info": [
+{"id":"53","cat": "creditscore", "info": [
   {
     "State":"3",
     "Abandoned": 2,
@@ -1246,7 +1246,7 @@
     "Rejected": 0
   }
   ]},
-[{"id":"54","cat": "creditscore", "info": [
+{"id":"54","cat": "creditscore", "info": [
   {
     "State":"3",
     "Abandoned": 1,
@@ -1272,7 +1272,7 @@
     "Rejected": 0
   }
   ]},
-[{"id":"55","cat": "creditscore", "info": [
+{"id":"55","cat": "creditscore", "info": [
   {
     "State":"3",
     "Abandoned": 0,
@@ -1298,7 +1298,7 @@
     "Rejected": 0
   }
   ]},
-[{"id":"56","cat": "creditscore", "info": [
+{"id":"56","cat": "creditscore", "info": [
   {
     "State":"3",
     "Abandoned": 0,
@@ -1324,7 +1324,7 @@
     "Rejected": 0
   }
   ]},
-[{"id":"72","cat": "creditscore", "info": [
+{"id":"72","cat": "creditscore", "info": [
   {
     "State":"3",
     "Abandoned": 0,
