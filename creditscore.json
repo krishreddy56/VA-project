@@ -53,7 +53,7 @@
 [{"id":"04","cat": "creditscore", "info": [
   {
     "State":"3",
-    "Abandoned": 1
+    "Abandoned": 1,
     "Accepted": 24,
     "Rejected": 82
   },
