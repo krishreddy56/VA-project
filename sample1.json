@@ -1,0 +1,99 @@
+[{"id":"01","cat": "Jazz", "info": [
+  {
+    "State":"18-19",
+    "Male-Yes": 1,
+    "Male-No": 5,
+    "Male-NA": 0
+  },
+  {
+    "State":"20-29",
+    "Male-Yes": 3,
+    "Male-No": 39,
+    "Male-NA": 0
+  },
+  {
+    "State":"30-39",
+    "Male-Yes": 4,
+    "Male-No": 42,
+    "Male-NA": 1
+  },
+  {
+    "State":"40-49",
+    "Male-Yes": 5,
+    "Male-No": 70,
+    "Male-NA": 0
+  },
+  {
+    "State":"50-59",
+    "Male-Yes": 4,
+    "Male-No": 59,
+    "Male-NA": 0
+  },
+  {
+    "State":"60-69",
+    "Male-Yes": 0,
+    "Male-No": 35,
+    "Male-NA": 0
+  },
+  {
+    "State":"70-79",
+    "Male-Yes": 0,
+    "Male-No": 35,
+    "Male-NA": 1
+  },
+  {
+    "State":"80+",
+    "Male-Yes": 0,
+    "Male-No": 14,
+    "Male-NA": 0
+ }]},
+{"id":"02","cat": "Jazz", "info": [
+  {
+    "State":"18-19",
+    "Male-Yes": 1,
+    "Male-No": 4,
+    "Male-NA": 0
+  },
+  {
+    "State":"20-29",
+    "Male-Yes": 6,
+    "Male-No": 36,
+    "Male-NA": 0
+  },
+  {
+    "State":"30-39",
+    "Male-Yes": 8,
+    "Male-No": 44,
+    "Male-NA": 0
+  },
+  {
+    "State":"40-49",
+    "Male-Yes": 9,
+    "Male-No": 58,
+    "Male-NA": 1
+  },
+  {
+    "State":"50-59",
+    "Male-Yes": 8,
+    "Male-No": 72,
+    "Male-NA": 1
+  },
+  {
+    "State":"60-69",
+    "Male-Yes": 4,
+    "Male-No": 25,
+    "Male-NA": 1
+  },
+  {
+    "State":"70-79",
+    "Male-Yes": 1,
+    "Male-No": 10,
+    "Male-NA": 0
+  },
+  {
+    "State":"80+",
+    "Male-Yes": 1,
+    "Male-No": 3,
+    "Male-NA": 0
+ }]}
+]
