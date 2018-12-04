@@ -1,13 +1,13 @@
 [{"id":"01","cat": "Jazz", "info": [
   {
     "State":"Fixed",
-    "STATUS0": "0",
-    "STATUS1": "21",
-    "STATUS2": "17",
+    "Male-Yes": "0",
+    "Male-No": "21",
+    "Male-NA": "17",
   },
   {
     "State":"Variable",
-    "STATUS0": "0",
-    "STATUS1": "5",
-    "STATUS2": "0",
+    "Male-Yes": "0",
+    "Male-No": "5",
+    "Male-NA": "0",
   }]}]
